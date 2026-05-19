@@ -1,3 +1,5 @@
 Contacts added - new feature
 Committing via feature branch
 Committing via feature branch - 2
+Committing via main branch
+Committing via main branch - 2nd line
